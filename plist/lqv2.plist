@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://archive.org/download/hhnv2/hhnv2.ipa</string>
+					<string>https://archive.org/download/hhn-i-osv-2-1.49.1925084_20230114_0940/HHN%20iOSv2_1.49.1925084.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.garena.game.hhnv2</string>
+				<string>com.garena.game.hhniosv2</string>
 				<key>bundle-version</key>
 				<string>1.49</string>
 				<key>kind</key>
