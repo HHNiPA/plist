@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://archive.org/download/hhn-i-osv-2-1.49.1925084_20230114_0940/HHN%20iOSv2_1.49.1925084.ipa</string>
+					<string>https://archive.org/download/resign_20230116182735480_202301/resign_20230116182735480.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://hhnios.github.io/img/hhn.png</string>
+					<string>https://raw.githubusercontent.com/HHNiOS/hhnios.github.io/main/CydiaIcon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://hhnios.github.io/img/hhn.png</string>
+					<string>https://raw.githubusercontent.com/HHNiOS/hhnios.github.io/main/CydiaIcon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>HHNiOS</string>
 				<key>title</key>
-				<string>Liên Quân Hack Mapv2</string>
+				<string>chiasejb.com</string>
 			</dict>
 		</dict>
 	</array>
