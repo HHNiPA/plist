@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.garena.game.hhniosv1</string>
+				<string>p3.xyz.yyyue.esignChongqing</string>
 				<key>bundle-version</key>
 				<string>1.49</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>HHNiOS</string>
 				<key>title</key>
-				<string>chiasejb.com</string>
+				<string>Esign Chongqing</string>
 			</dict>
 		</dict>
 	</array>
