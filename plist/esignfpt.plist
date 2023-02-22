@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://archive.org/download/codevndotnet-signed-2/codevndotnet-signed%20%282%29.ipa</string>
+					<string>https://archive.org/download/esign-cert-fpt-4.7.3.1-1677033848/Esign%20Cert%20FPT_4.7.3.1_1677033848.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.garena.game.hhnmod</string>
+				<string>p3.xyz.yyyue.esignfpt</string>
 				<key>bundle-version</key>
 				<string>1.49</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>HHNiOS</string>
 				<key>title</key>
-				<string>chiasejb.com</string>
+				<string>Esign FPT</string>
 			</dict>
 		</dict>
 	</array>
