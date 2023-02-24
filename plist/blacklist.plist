@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://archive.org/download/codevndotnet-signed-1/codevndotnet-signed%20%281%29.ipa</string>
+					<string>https://archive.org/download/blacklist-i-thunder-1-1677280415/Blacklist%20-%20iThunder_1_1677280415.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.garena.game.hhniosv2</string>
+				<string>co.iThunder.Blacklist</string>
 				<key>bundle-version</key>
 				<string>1.49</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>HHNiOS</string>
 				<key>title</key>
-				<string>chiasejb.com</string>
+				<string>hhnios.github.io</string>
 			</dict>
 		</dict>
 	</array>
